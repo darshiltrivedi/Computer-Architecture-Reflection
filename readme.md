@@ -7,3 +7,4 @@
 <br>
 <span style="text-align:justify;">For the final project, I designed a calculator which can do basic operations such as addition subtraction and rotation. VHDL as language in Vivado tool was used for this project. I found this project very much self-enlightening as all the theoretical concepts were applied practically and it made me Industry ready. You can find the project report, its working video, and other details by going to projects at SUNY Buffalo section of my portfolio or <a href="https://github.com/darshiltrivedi/Basys3-Calculator" target="_blank" >Click Here</a>. It was a great learning experience for me and I’m glad that I took this subject.<br></span>
 </div>
+<p style="text-align:center; padding:10px"><img  id="Basys3img" src="abacus_multiply.jpg" alt="Profile Image"></p>
